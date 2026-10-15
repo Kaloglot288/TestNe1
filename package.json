@@ -1,0 +1,13 @@
+{
+  "name": "csv-filter-cli",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.2.1",
+    "dotenv": "^18.0.8"
+  }
+}
